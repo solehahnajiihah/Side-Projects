@@ -18,7 +18,7 @@ The data is obtained from Dgomonov through [Kaggle](https://www.kaggle.com/datas
 2. Power BI (Data Visualization)
 
 ## KNIME - Data Preparation and Cleaning
-<img width="1100" height="947" alt="image" src="https://github.com/user-attachments/assets/dea3f4b1-0c9d-4305-b9c3-f87e83fa4018" />
+<img width="1841" height="1587" alt="image" src="https://github.com/user-attachments/assets/b073d925-a077-48c5-87ed-3a1a80603334" />
 
 ## Dashboard Power BI
 <img width="2971" height="1677" alt="image" src="https://github.com/user-attachments/assets/10a6fee9-14a9-4f27-bcf6-50b69311bf75" />
