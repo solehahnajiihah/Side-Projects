@@ -11,5 +11,13 @@ The purpose of this project are as follows:
 ## Data
 The data is obtained from Dgomonov through [Kaggle](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data) website.  
 
+## Tools
+1. KNIME (Data Cleaning and Transformation)
+2. Power BI (Data Visualization)
+
 ## Dashboard 
-<img width="2224" height="1256" alt="image" src="https://github.com/user-attachments/assets/1b0bbeab-4caa-49b5-8427-48b1c56de5b6" />
+<img width="2971" height="1677" alt="image" src="https://github.com/user-attachments/assets/10a6fee9-14a9-4f27-bcf6-50b69311bf75" />
+
+
+<img width="2977" height="1674" alt="image" src="https://github.com/user-attachments/assets/2312f904-21c0-419d-b66f-bb29e7cb2020" />
+
