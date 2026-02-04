@@ -4,9 +4,9 @@ According to Renascence, Airbnb uses customer-oriented business strategy, offeri
 
 ## Objective 
 The purpose of this project are as follows:
-1. Identify neighbourhoods with high listing density and low availability to flag undersupplied areas.
-2. Analyze reviews per month across neighbourhoods and room types to investigate booking demand patterns.
-3. Analyze trends over Month and Year to identify seasonal demand shifts by neighbourhood and room type.
+1. Identify the most popular neighbourhood for hosting.
+2. Analyze reviews per month across neighbourhoods and room types to understand demand patterns.
+3. Analyze monthly and yearly trends to identify seasonal demand shifts.
 
 ## Data
 The data is obtained from Dgomonov through [Kaggle](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data) website.  
