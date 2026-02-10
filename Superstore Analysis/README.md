@@ -73,6 +73,8 @@ The data is obtained from [Kaggle](https://www.kaggle.com/datasets/vivek468/supe
 
 
 ## Dashboard PowerBi
+<img width="2464" height="1376" alt="image" src="https://github.com/user-attachments/assets/6ac7e0fc-fe3e-4c06-9321-d46093cdd043" />
+
 <img width="3014" height="1696" alt="image" src="https://github.com/user-attachments/assets/2b4af41d-f6fe-450a-89ed-534ee95e6b6f" />
 
 
