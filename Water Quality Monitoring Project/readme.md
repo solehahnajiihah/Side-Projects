@@ -1,9 +1,9 @@
 
 There is always a first for everything, and I’m excited to share my journey in my first-ever data science competition.  
-This experience marked my first exposure to satellite data, and I’m truly grateful for the opportunity to explore it. It was also my first time working with the Snowflake cloud platform, making the journey even more meaningful and rewarding.
+This experience marked my first exposure to satellite data, and I’m truly grateful for the opportunity to explore it. It was also my first time working with the Snowflake cloud platform, so it was a really exciting experience.
 
-Although I didn’t make it to the Top 10 finalists, I surpassed the benchmark score set by EY. 
-This journey has pushed me to think critically, work with unfamiliar data and machine learnings, and strengthen my problem-solving skills. It was a really challenging but highly valuable experience.
+Although I didn’t make it to the Top 10 finalists, I did surpassed the benchmark score set by EY. 
+This journey has pushed me to think critically, work with unfamiliar data and strengthen my problem-solving skills. It was a really challenging but highly valuable experience.
 
 
 ## Overview
@@ -18,7 +18,7 @@ Built for the EY AI & Data Science Challenge 2026, the goal was to develop model
 
 ## Problem Statement
 
-Traditional water monitoring is expensive, time-consuming and geographically limited
+Traditional water monitoring is expensive, time-consuming and geographically limited.
 
 This project explores a scalable alternative: Can satellite + climate data be used to predict water quality without physical sampling?
 
@@ -32,7 +32,6 @@ Target variables:
 Water Quality Data (2011–2015, South Africa)
 1. Landsat Satellite Features (spectral bands + indices like NDVI, NDBI, MNDWI)
 2. TerraClimate Data (temperature, precipitation, runoff, soil moisture, vapor pressure)
-3. Elevation Data (DEM)
 
 Approach
 1. Feature Engineering
@@ -57,19 +56,17 @@ Result: Improved generalization on unseen data
 ## Key Insights
 - Water quality shows strong spatial patterns (urban + industrial influence)
 - Satellite indices are effective proxies for environmental conditions
-- Stacking > individual models for real-world generalization
 - Dissolved phosphorus is harder to predict due to event-driven behavior (runoff, pollution)
 
 ## Tech Stack
 - Python (Pandas, NumPy, Scikit-learn)
-- Satellite data (Microsoft Planetary Computer, DEM)
+- Satellite data (Microsoft Planetary Computer)
 - Snowflake (cloud platform)
 
 ## Takeaways
 
 This project demonstrates how:
 - Remote sensing + ML can replace traditional monitoring
-- Ensemble methods improve robustness
 - Data-driven approaches can support environmental decision-making
 
 ## Future Recommendations
