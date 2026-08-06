@@ -10,7 +10,7 @@ This journey has pushed me to think critically, work with unfamiliar data and st
 
 This project tackles a real-world environmental problem: predicting water quality across rivers in South Africa using satellite and climate data.
 
-Built for the EY AI & Data Science Challenge 2026, the goal was to develop models that can:
+The goal was to develop models that can:
 
 - Predict key water quality parameters
 - Generalize to unseen locations
